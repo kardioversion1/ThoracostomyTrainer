@@ -3,6 +3,8 @@
 # Needle and Finger Thoracostomy Trainer
 ### A 3D-Printable Active Pneumothorax Simulation Trainer for EMS Education
 
+Makerworld Link: https://makerworld.com/en/models/2704258-pneumatic-thoracostomy-sim-trainer-ems-med-ed#profileId-2998245
+
 **Built by Evan Kuhl, Co-Founder — Kentuckiana Prehospital Education Consortium (KPEC)**
 **www.myKPEC.com**
 
